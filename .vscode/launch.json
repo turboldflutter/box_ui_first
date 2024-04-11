@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Box UI Logon project",
+        "cwd": "logon_project",
+        "request": "launch",
+        "type": "dart"
+      }
+    ]
+  }
